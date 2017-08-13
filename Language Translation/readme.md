@@ -4,4 +4,4 @@ In this project I trained a sequence to sequence model on a dataset of English a
 
 Here is a translation done by the trained model:
 
-![alt text](english-french-translation.JPG "English-French-Translation)
+![alt text](english-french-translation.JPG "English-French-Translation")
